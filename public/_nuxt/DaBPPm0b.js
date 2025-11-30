@@ -1,0 +1,1 @@
+import{u as a}from"./Df1d29-Q.js";import{aI as r,aE as o}from"#entry";s;const i=r(e=>{const t=a();if(t.loadAuth(),!t.token&&e.path!=="/login")return o("/");if(t.token&&e.path==="/login")return o("/")});export{i as default};
